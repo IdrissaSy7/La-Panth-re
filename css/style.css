@@ -1078,6 +1078,19 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    .row.row-no-gutters.social{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .col-sm-4{
+        margin-left: 20px;
+    }
+
 }
 
 @media (max-width: 400px) {
