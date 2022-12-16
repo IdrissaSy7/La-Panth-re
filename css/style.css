@@ -334,7 +334,8 @@ a:hover {
 
 .nav>li a:hover,
 .nav>li a:focus {
-    background: transparent;
+    background: #F3976C;
+    border-radius: 30px;
 }
 
 .navbar-toggle {
