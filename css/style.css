@@ -1109,6 +1109,7 @@ h4 {
 
 .citation{
     font-size: 22px;
+    font-style: italic;
 }
 
 .text-center{
@@ -1130,4 +1131,8 @@ h4 {
 
 .col-sm-12, .col-sm-6 p{
     font-size: 1.1em;
+}
+
+.font{
+    font-size: 22px;
 }
